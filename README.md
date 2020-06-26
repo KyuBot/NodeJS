@@ -7,3 +7,4 @@
 5. npm i body-parser --save
 6. npm i ejs --save
 7. npm i cors
+8. npm i mysql
